@@ -1,2 +1,2 @@
 # CALPHAD-CAE
-Graphical User Interface using (GUI) the open source CALPHAD tools
+Graphical User Interface (GUI) using open-source CALPHAD tools
